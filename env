@@ -1,0 +1,6 @@
+DB_USER=ernesto
+DB_HOST=localhost   
+DB_NAME=Joyeria
+DB_PASSWORD=tito12396
+DB_PORT=5432        
+PORT=3000
